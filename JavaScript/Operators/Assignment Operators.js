@@ -3,8 +3,10 @@
  * The simple assignment operator is equal (=) which assings the value of it's right operand to it's left operand. E.g `x = y` assings the value of `y` to `x`.
  */
 
-// Assignment Operators (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
+let x = 3;
+let y = 5;
 
+// Assignment Operators (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#assignment_operators)
 x = y // Means the value of x is equal to y (Assignment)
 x += y // Means the value of x is x + y (Addittion assignment)
 x -= y // Means the value of x is x - y (Subtraction assignment)
