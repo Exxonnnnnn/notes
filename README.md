@@ -1,4 +1,4 @@
-# Some notes, enjoy
+# What is this repository for?
 
 This repository has a range of notes. The goal is to have multiple languages / libraries including JavaScript, TypeScript, C++, HTML, CSS, PHP etc.
 
@@ -10,5 +10,5 @@ This repository has a range of notes. The goal is to have multiple languages / l
 If you want to contribute to the repository please follow the steps below:
 
 - Open a pull request with what you want to add
-- Ensure your work has correct formatting and is going in the proper folders.
+- Ensure your work has correct formatting and is going in the correct folders.
 - Please try to include sources in your guides. For example if you were explaining a method in JavaScript, include the official documentation link from https://developer.mozilla.org/en-US/docs/Web
