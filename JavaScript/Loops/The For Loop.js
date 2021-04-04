@@ -80,3 +80,13 @@ same.forEach(s => {
     console.log(`Both loops have the number: ${s}`);
 });
 
+/** Another way we could do this:
+ * This other way would output the phrase differently.
+ * Rather than output on each line "Both loops have the number: Number" we can
+ * put all of this on one line, and join each number with the .join() method.
+ * 
+ * We will be using the variable "same" which we defined above
+ */
+
+console.log(`Both loops have the numbers: ${same.join(', ')}`) // This will log the following: Both loops have the numbers: 2, 19
+
