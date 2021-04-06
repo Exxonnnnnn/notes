@@ -77,6 +77,8 @@ console.log(animals); // This will log the following ['dog', 'cat', 'fox', 'hors
  * Above we have added elements to the end of the array, we can also add elements to the
  * start of an array. This is done using the .unshift() method.
  * 
+ * Documentation - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays
+ * 
  * In this example below we have an array called numbers.
  * The array contains 3 numbers but we want to add 1 and 2 to the start
  * of the array.

@@ -3,6 +3,8 @@
  * using teh "fat arrow" notation.
  * These functions remove the need to type out the keyword 'function'.
  * 
+ * Documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+ * 
  * To create a function you include the parameters inside the () then add a => arrow that points to the
  * function body, surrounded by {}.
  */

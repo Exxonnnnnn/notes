@@ -3,6 +3,10 @@
  * Functions can have parameters passed through, for example if you had a function to play rock paper scissors, you would want to pass through
  * the two choices, your choice and the other persons choice.
  * 
+ * Documentation:
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions
+ * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions
+ * 
  * In JavaScript you can also use functions before defining them, also known as Hoisting.
  * This is not recommended to do and is bad practice, but with the examples below we could put 'playRPS()' before defining the function and it would still work.
  */

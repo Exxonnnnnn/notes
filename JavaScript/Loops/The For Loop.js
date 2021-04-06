@@ -9,6 +9,8 @@
  * if the condition evaluates to true the code block will run, and if it evaluates to false the code will stop.
  * 3 - An iteration statement is used to update the iterator variable on each loop.
  * 
+ * Documentation - https://developer.mozilla.org/en-US/docs/Glossary/loop#for_loop
+ * 
  * 
  * In the for loop below, it will output 0, 1, 2, 3 in the console all on seperate lines.
  * We can see that the initialization is 'let counter = 0'.

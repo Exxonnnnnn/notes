@@ -4,6 +4,8 @@
  * 
  * condition ? val1 : val2
  * 
+ * Documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#conditional_ternary_operator
+ * 
  * If the condition is true then it returns val1 otherwise it will return val2. 
  * 
  * Examples:

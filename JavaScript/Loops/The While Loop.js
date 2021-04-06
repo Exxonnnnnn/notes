@@ -3,6 +3,8 @@
  * will be evaluated before each round of the loop. While the condition evaluates to
  * true, the block will continue to run. Once it evaluates to false, the loop will stop.
  * 
+ * Documentation - https://developer.mozilla.org/en-US/docs/Glossary/loop#while_loop
+ * 
  * In this example below we have a while loop that will print out 1, 2 and 3.
  */
 let counter = 1;
