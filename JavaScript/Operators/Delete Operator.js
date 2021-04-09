@@ -19,7 +19,7 @@ console.log(person);
 /** This will log the following:
  * {
  *   age: 18,
- *   name: 'Exxon'
+ *   name: "Exxon"
  * }
  */
 
