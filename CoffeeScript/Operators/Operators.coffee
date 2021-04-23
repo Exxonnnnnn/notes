@@ -42,6 +42,10 @@ helloWorld = function() {
     return console.log("Hello World");
 }
 
+number1 = 10;
+number2 = 12;
+number3 = 10;
+
 if (number1 === number3) 
     helloWorld();
 
