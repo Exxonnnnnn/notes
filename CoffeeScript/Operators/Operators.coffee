@@ -39,7 +39,7 @@ helloWorld() if number1 isnt number2;
 `let helloWorld, number1, number2, number3;
 
 helloWorld = function() {
-    return console.log("Hello World");
+    console.log("Hello World");
 }
 
 number1 = 10;
