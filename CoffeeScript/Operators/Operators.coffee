@@ -34,3 +34,16 @@ number3 = 10;
 
 helloWorld() if number1 is number3;
 helloWorld() if number1 isnt number2;
+
+# This is how it would look in JavaScript:
+`let helloWorld, number1, number2, number3;
+
+helloWorld = function() {
+    return console.log("Hello World");
+}
+
+if (number1 === number3) 
+    helloWorld();
+
+if (number1 !== number2)
+    helloWorld();`

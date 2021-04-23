@@ -1,4 +1,4 @@
-# JavaScript
+# CoffeeScript
 
 ### Documentation Used
 
