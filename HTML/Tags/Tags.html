@@ -76,7 +76,7 @@
 <wbl></wbl> <!-- Specifies where it text it would be ok to add a line-break. If a word is too long it may break it at the wrong place, this adds a place to break it -->
 
 
-<!-- Forms and Input -->
+<!-- Forms and Input Tags -->
 <form></form> <!-- Defines a HTML form for user input -->
 <input> <!-- Specifies an input field where the user can enter data -->
 <textarea></textarea> <!-- Defines a multi-line text input control -->
@@ -95,11 +95,11 @@
 <output></output> <!-- Used to represent the result of a calculation (like one performed by a script) -->
 
 
-<!-- Frames -->
+<!-- Frames Tags -->
 <iframe></iframe> <!-- Defines an inline frame, used to embed another document within the current HTML document -->
 
 
-<!-- Images -->
+<!-- Image Tags -->
 <img> <!-- Defines an image (Embeds an image in a HTML page) -->
 <map></map> <!-- Defines an image map (An image with clickable areas) -->
 <area> <!-- Defines an area inside an image map (This element is always nested inside a map tag) -->
@@ -110,17 +110,64 @@
 <svg></svg> <!-- Defines a container for SVG graphics -->
 
 
-<!-- Audio / Video -->
+<!-- Audio / Video Tags -->
 <audio></audio> <!-- Used to embed sound content in a document. The text between the tags will only be displayed in browsers that don't support the audio element -->
 <source></source> <!-- Defines multiple media resources for media elements (video, audio and picture) -->
 <track> <!-- Specifies text tracks for audio or video elements (Specify subtitles, caption files or other files containing text that should be visible when media is playing) -->
 <video></video> <!-- Defines navigation links, used to embed video content, contains one or more source tags with different video sources, browser will choose the first it supports -->
 
 
-<!-- Links -->
+<!-- Link Tags -->
 <a></a> <!-- Defines a hyperlink, used to link from one page to another. Must have the href attribute -->
 <link> <!-- Defines the relationship between a document and an external resource e.g. stylesheets inside the head element -->
 <nav></nav> <!-- Defines a set of navigation links (It is intended for only major blocks of navigation links) -->
 
 
-<!-- Lists -->
+<!-- List Tags -->
+<ul></ul> <!-- Defines an unordered list -->
+<ol></ol> <!-- Defines an ordered list -->
+<li></li> <!-- Defines a list item -->
+<dl></dl> <!-- Defines a description list -->
+<dt></dt> <!-- Defines a term/name in a description list -->
+<dd></dd> <!-- Defines a description of a term/name in a description list -->
+
+
+<!-- Table Tags -->
+<table></table> <!-- Defines a table -->
+<caption></caption> <!-- Defines a table caption -->
+<th></th> <!-- Defines a header cell in a table -->
+<tr></tr> <!-- Defines a row in a table -->
+<td></td> <!-- Defines a cell in a table -->
+<thead></thead> <!-- Groups the header content in a table -->
+<tbody></tbody> <!-- Groups the body content in a table -->
+<tfoot></tfoot> <!-- Groups the footer content in a table -->
+<col></col> <!-- Specifies column properties for each column within a colgroup element -->
+<colgroup></colgroup> <!-- Specifies a group of one or more columns in a table for formatting -->
+
+
+<!-- Styles and Semantics -->
+<style></style> <!-- Defines style information for a document -->
+<div></div> <!-- Defines a section in a document (Usually used for styling) -->
+<span></span> <!-- An inline container used to mark up a part of text or part of a document -->
+<header></header> <!-- Defines a header for a document or section -->
+<footer></footer> <!-- Defines a footer for a document or section -->
+<main></main> <!-- Specifies the main content of a document -->
+<section></section> <!-- Defines a section in a document -->
+<article></article> <!-- Defines an article (Should make sense on its own) -->
+<details></details> <!-- Defines additional details that the user can view or hide -->
+<summary></summary> <!-- Defines a visible heading for a details element -->
+<data></data> <!-- Used to add a machine-readable translation of a given content -->
+
+
+<!-- Meta Tags -->
+<head></head> <!-- Defines information about the document -->
+<meta> <!-- Defines metadata about a HTML document -->
+<base> <!-- Specifies the base URL/target for all relative URLs in a document -->
+
+
+<!-- Programming Tags -->
+<script></script> <!-- Defines a client-side script, can contain scripts or poitns to an external script file using the src attribute -->
+<noscript></noscript> <!-- Defines an alternate content for users that do not support client-side scripts -->
+<embed> <!-- defines a container for an external resource, such as a web page, a picture, a media player, or a plug-in application. (Better to use other tags like iframe, video, audio, img) -->
+<object></object> <!-- Defines a container for an external resource, can be a web page, picture, media player or a plug-in application (Better to use the tags listed in comment above) -->
+<param> <!-- Defines parameters for an object element -->
