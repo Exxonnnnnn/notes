@@ -106,7 +106,7 @@ console.log(removed); // This will log the following 'snake'
 /** List of some of the built in JavaScript array methods:
  * .join() - Creates and returns a new string by concatenating all of the elements in an array. (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join)
  * .slice() - Returns a shallow copy of a portion of an array. (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
- * .splice() - Changes the contents of an array by removing or replacing existing elements (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice)
+ * .splice() - Changes the contents of an array by removing or replacing existing elements (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)
  * .shift() - Removes the first element from an array and returns the removed element. (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/shift)
  * .unshift() - Adds one or more elements to the start of an array. (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/unshift)
  * .contact() - Used to merge two or more arrays, this doesn't change the existing array but instead returns a new array. (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat)
