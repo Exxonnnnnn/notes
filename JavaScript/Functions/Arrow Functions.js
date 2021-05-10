@@ -1,6 +1,6 @@
 /**
  * ES6 Introduced the arrow function syntax. This is a shorter way to write functions by
- * using teh "fat arrow" notation.
+ * using the "fat arrow" notation.
  * These functions remove the need to type out the keyword 'function'.
  * 
  * Documentation - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
