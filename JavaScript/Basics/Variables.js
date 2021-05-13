@@ -16,7 +16,7 @@
 const hello = "Hello World!";
 console.log(hello); // This will log - hello
 
-//hello = "Hello Exxon!"; // This will give us an error - "TypeError: Assignment to a constant variable."
+hello = "Hello Exxon!"; // This will give us an error - "TypeError: Assignment to a constant variable."
 
 /**
  * The second keyword we will look at is "let". This keyword is used to declare block-scoped
