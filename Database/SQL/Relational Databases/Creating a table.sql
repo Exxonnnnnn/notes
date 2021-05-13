@@ -32,6 +32,7 @@ CREATE TABLE person (name TEXT, age INTEGER,);
 
 INSERT INTO person (name, age)
 VALUES ('Tom', 18);
+
 INSERT INTO person (name, age)
 VALUES ('Kevin', 22);
 
@@ -51,6 +52,7 @@ VALUES ('Kevin', 22);
  */
 
 SELECT name FROM person; -- Selecting just the names.
+
 SELECT * FROM person; -- Selecting all the data
 
 
@@ -69,6 +71,7 @@ SELECT * FROM person; -- Selecting all the data
 
 ALTER TABLE person
 ADD COLUMN nickname TEXT;
+
 ALTER TABLE person
 ADD COLUMN birth_year INTEGER;
 
@@ -91,6 +94,7 @@ ADD COLUMN birth_year INTEGER;
 UPDATE person
 SET nickname = 'Exxon'
 WHERE name = 'Tom';
+
 UPDATE person
 SET birth_year = 1923
 WHERE name = 'Tom';
