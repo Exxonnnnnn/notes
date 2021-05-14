@@ -3,6 +3,10 @@ When creating new variables in Python you do not need to use a command/keyword.
 A variable is created the moment you first assign a value to it. You can
 also change the type and the value of a variable after it has been set.
 
+When creating a new variable there is certain names that you cannot have. You
+cannot have a space or (-) in the variable name. The name also cannot start with
+a number, it must start with a letter or an underscore (_).
+
 Documentation - https://www.w3schools.com/python/python_variables.asp
 
 In the example below we are going to create two variables, "myName" and "myAge".
