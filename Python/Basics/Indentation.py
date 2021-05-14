@@ -2,7 +2,8 @@
 Python Indentation refers to the spaces at the beginning of a code line. 
 In Python, indentation is used to indicate a block of code. For example, 
 if we were to do an if statement then we would need to use indentation 
-to show what to do after the if statement.
+to show what to do after the if statement. If you incorrectly use indentation
+then you may get an "IndentationError".
 
 Documentation - https://www.w3schools.com/python/python_syntax.asp
 

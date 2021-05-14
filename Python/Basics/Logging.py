@@ -10,5 +10,3 @@ In the example below we will log "Hello World!" to the console.
 """
 
 print("Hello World!")
-
-
