@@ -14,14 +14,14 @@
 // To start a function you use the 'function' keyword.
 function playRPS() {
 
-};
+}
 
 // To create a function with parameters you need to put them in the ()
 function playRPS(choice1, choice2) {
     // You can then use these parameters inside the function, like this:
     console.log(choice1);
     console.log(choice2);
-};
+}
 
 // We can then call this function
 playRPS('rock', 'paper'); // This should then console log 'rock' and 'paper'
@@ -41,7 +41,7 @@ function playRPS(choice1, choice2) {
         return 'Choice1 wins!';
     else
         return 'Choice 2 wins!';
-};
+}
 
 /**
  * Now we can call this function.

@@ -20,10 +20,10 @@ var (name, age) = ("Exxon", 18);
 
 In the example below we wil use both ways of doing it.
 */
-let name = "Exxon";
-let age = 18;
+let name = "Exxon"
+let age = 18
 
-let (birthMonth, birthDay) = (3, 5);
+let (birthMonth, birthDay) = (3, 5)
 
 
 /* Arithmetic Operators
