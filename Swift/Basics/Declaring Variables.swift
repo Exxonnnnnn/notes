@@ -12,5 +12,5 @@ declaring a variable value meaning you can change its value.
 In the example below we will declare a variable and a constant (Age and Name).
 */
 
-var name = "Exxon";
-let age = 18;
+var name = "Exxon"
+let age = 18

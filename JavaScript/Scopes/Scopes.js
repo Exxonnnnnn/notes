@@ -20,7 +20,7 @@ const animal = 'Dog';
 
 function logAnimal() {
     console.log(animal);
-};
+}
 
 logAnimal();
 console.log(animal);
@@ -36,7 +36,7 @@ let colour = 'Red';
 function logColour() {
     colour = 'Blue';
     console.log(colour);
-};
+}
 
 logColour(); // Logs - 'Blue'
 console.log(colour); // Logs - 'Blue'
@@ -51,7 +51,7 @@ console.log(colour); // Logs - 'Blue'
 function logName() {
     const name = 'Exxon';
     console.log(name);
-};
+}
 
 logName();
 
