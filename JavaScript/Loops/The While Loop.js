@@ -11,7 +11,7 @@ let counter = 1;
 while (counter < 4) {
     console.log(counter);
     counter++; // We need this to ensure we don't get an infinite loop.
-};
+}
 
 /** Do while Statement
  * We may want a piece of code to run at least once and then loop

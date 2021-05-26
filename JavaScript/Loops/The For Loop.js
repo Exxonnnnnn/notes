@@ -20,7 +20,7 @@
 
 for (let counter = 0; counter < 4; counter++) {
     console.log(counter);
-};
+}
 /** Output:
  * 0
  * 1
@@ -38,7 +38,7 @@ const someArray = ['item1', 'item2', 'item3'];
 
 for (let counter = 0; counter < someArray.length; counter++) {
     console.log(someArray[counter]);
-};
+}
 
 /** Nested Loops
  * When we have a loop running inside another loop we call that a nested loop.
@@ -57,7 +57,7 @@ for (let i = 0; i < myArray.length; i++) {
       console.log('Both loops have the number: ' + yourArray[j])
     }
   }
-};
+}
 
 /** Other ways
  * There is two ways that first come to mind that could make this shorter and look cleaner.
@@ -75,7 +75,7 @@ const same = myArray.filter(n => yourArray.includes(n)); // Console logging same
 // Using a for loop
 for (let i = 0; i < same.length; i++) {
     console.log(`Both loops have the number: ${same[i]}`);
-};
+}
 
 // Using a forEach loop
 same.forEach(s => {
