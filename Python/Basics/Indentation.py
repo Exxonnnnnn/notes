@@ -13,6 +13,3 @@ indentation then we would get a Syntax Error.
 
 if 5 > 2:
     print("Five is greater than two!") # We have used indentation to show what it should do if the if statement is true
-
-
-
