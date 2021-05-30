@@ -87,23 +87,15 @@
 
 <br>
 
-<a
-href="https://github.com/CreativeDevelopments/CDCommands/blob/main/LICENSE"
-target="\_blank"
-
-> <img
-
+<a href="https://github.com/CreativeDevelopments/CDCommands/blob/main/LICENSE" target="_blank">
+  <img
     src="https://img.shields.io/badge/license-Apache%202-blue.svg?logo=apache"
     alt="License"
-
-/>
+  />
 </a>
 
 ```html
-<a
-  href="https://github.com/CreativeDevelopments/CDCommands/blob/main/LICENSE"
-  target="_blank"
->
+<a href="https://github.com/CreativeDevelopments/CDCommands/blob/main/LICENSE" target="_blank">
   <img
     src="https://img.shields.io/badge/license-Apache%202-blue.svg?logo=apache"
     alt="License"
